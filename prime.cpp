@@ -1,4 +1,5 @@
 #include <iostream>
+#include<cmath>
 using namespace std;
 
 int main()
@@ -10,7 +11,7 @@ int main()
 
     int i;
 
-    for (i = 2; i < p; i++ ){   
+    for (i = 2; i < (p); i++ ){   
         if(p % i == 0) {
             cout << "it is not prime" << endl;
             break;
