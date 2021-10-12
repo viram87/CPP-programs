@@ -1,0 +1,1 @@
+{"name":"Local: py_triplet","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\py_triplet.cpp","tests":[{"id":1631632960248,"input":"5 12 13","output":"pythagorian triplet"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\py_triplet.cpp","group":"local","local":true}

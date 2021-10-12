@@ -1,0 +1,1 @@
+{"name":"Local: fn_fact","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\fn_fact.cpp","tests":[{"id":1631632078029,"input":"5","output":"120"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\fn_fact.cpp","group":"local","local":true}
