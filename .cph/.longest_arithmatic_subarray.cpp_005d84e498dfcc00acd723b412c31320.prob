@@ -1,0 +1,1 @@
+{"name":"Local: longest_arithmatic_subarray","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\longest_arithmatic_subarray.cpp","tests":[{"id":1634065545047,"input":"5\n10 7 4 6","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\longest_arithmatic_subarray.cpp","group":"local","local":true}

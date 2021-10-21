@@ -1,0 +1,1 @@
+{"name":"Local: Max_till_i","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\Max_till_i.cpp","tests":[{"id":1634062371373,"input":"6\n\n0 -9 1 3 -4 5","output":"0 0 1 3 3 5"}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\Max_till_i.cpp","group":"local","local":true}

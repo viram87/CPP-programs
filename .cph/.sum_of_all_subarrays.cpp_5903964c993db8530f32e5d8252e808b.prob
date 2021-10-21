@@ -1,0 +1,1 @@
+{"name":"Local: sum_of_all_subarrays","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\sum_of_all_subarrays.cpp","tests":[{"id":1634063238910,"input":"5\n1 2 0 7 2","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\sum_of_all_subarrays.cpp","group":"local","local":true}

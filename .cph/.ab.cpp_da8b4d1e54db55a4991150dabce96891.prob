@@ -1,0 +1,1 @@
+{"name":"Local: ab","url":"c:\\Users\\viram\\Desktop\\c++\\projects\\ab.cpp","tests":[{"id":1634196539309,"input":"3 12345678912345 a 334.23 14049.30493","output":""}],"interactive":false,"memoryLimit":1024,"timeLimit":3000,"srcPath":"c:\\Users\\viram\\Desktop\\c++\\projects\\ab.cpp","group":"local","local":true}
